@@ -30,6 +30,11 @@ nav {
   padding: 0 2rem;
 }
 
+.info {
+  font-size: 1.1rem;
+  text-align: right;
+}
+
 .welcome {
   font-size: 1.9rem;
   font-weight: 500;
